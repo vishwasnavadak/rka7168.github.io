@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body{
+    background:url(img/bg.jpg) fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    text-transform: uppercase;
+    text-align: center;
+    color:#fff !important;
+    vertical-align: middle;
+    font-family: 'Raleway', sans-serif !important;
+    height:100%;
+}
+body a{
+    text-decoration:none;
+    color:#ffffff !important;
+}
+.body-content {
+    text-transform: initial !important;
+    font-size: 1.4em;
+}
+.footer {
+    text-transform: initial !important;
+    font-size: 0.9em;
+}
+.blinking-cursor {
+  color:#fff !important;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+.skill-row {
+	
+}
+
+.skill-col {
+	padding:15px;
+}
+
+.skill-bar {
+	background-color:#68768A !important;
+	border:none;
+}
+.skill-content {
+	text-transform: initial !important;
+    font-size: 0.95em;
+}
+.skill-desc {
+	color:#bbbbbb;
+	-webkit-transition-property: color; /* Safari */
+    -webkit-transition-duration: 0.5s; /* Safari */
+    -o-transition-property: color;
+    -o-transition-duration: 0.5s;
+	transition-property: color;
+    transition-duration: 0.5s;
+}
+
+.skill-desc:hover {
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+hr.separator { 
+	width:80%;
+	border: 0; 
+	height: 1px; 
+	margin-top: 10px !important; 
+	margin-bottom: 10px !important;
+	background-color: rgba(162, 156, 156, 0.58);
+}
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+@media (max-width:320px)  {
+	body{
+		background-image:none;
+		background-color:#34353c !important;
+	}
+}
+@media (max-width:480px)  {
+	body{
+		background-image:none;
+		background-color:#34353c !important;		
+	}
+}
+
+@media (max-width:620px)  {
+	body{
+		background-image:none;
+		background-color:#34353c !important;		
+	}
+}
