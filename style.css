@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
 body{
-    background:url(img/bg.jpg) fixed;
-    background-repeat:no-repeat;
+    background:url(img/bg.jpg) Fixed;
     background-size:cover;
     text-transform: uppercase;
     text-align: center;
@@ -70,6 +69,11 @@ hr.separator {
 	margin-top: 10px !important; 
 	margin-bottom: 10px !important;
 	background-color: rgba(162, 156, 156, 0.58);
+}
+
+.progress {
+    height: 10px !important;
+	
 }
 @keyframes "blink" {
   from, to {
