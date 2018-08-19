@@ -1,20 +1,20 @@
 <?php
 
-
     session_cache_limiter( 'nocache' );
+    echo json_encode('Started-1' );
     header( 'Expires: ' . gmdate( 'r', 0 ) );
     header( 'Content-type: application/json' );
-
+    echo json_encode('Started-2' );
 
     $to             = 'rka7168@gmail.com'; //put your email here
     $email_template = 'simple.html';  // will find it on email-templates/ directory
-
+    echo json_encode('Started-3' );
     $subject    = "SUBJECT";
     $email      = strip_tags($_POST['email']);
     $name       = strip_tags($_POST['name']);
     $message    = nl2br( htmlspecialchars($_POST['message'], ENT_QUOTES) );
     $result     = array();
-
+    echo json_encode('Started-4' );
 
     if(empty($name)){
 
@@ -22,6 +22,7 @@
         echo json_encode($result );
         die;
     }
+    echo json_encode('Started-5' );
 
     if(empty($email)){
 
