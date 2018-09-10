@@ -1,14 +1,29 @@
-library managemenet system database project -09.2.2016....................
-professional english language course 27.01.2016-10.03.2016--30 hours ..................
-ieo certificate of participation 21.02.2016
+•	1 month course in JAVA (Core) from MTA at Kolkata in summer may, 2015. .
+•	1 month course in Database Fundamentals from MTA at Kolkata in summer June, 2015.
+•	1 month course in “Professional English Language Course” from British Council  at IIEST,SHIBPUR 27.01.2016-10.03.2016--30 hours 
+•	15 Days Training at DURGAPUR STEEL PLANT (S.A.I.L.) on role of CS &IT at DSP May, 2016.
+•	Attended Workshop on "ETHICAL HACKING" conducted by TECH DEFENCE.
+•	Attended Workshop on “Cloud Computing” organised by ‘IIT Kharaghpur'.
+•	Attended Workshop on “GLOBAL ENTERPRENEURSHIP SUMMIT” organised by ‘IIT Kharaghpur'.
+•	Webcasting- Live streaming of events Live streaming and recording of Events of Alumni Day 2015 directly on YouTube channel
+      YouTube channel link: https://www.youtube.com/channel/UCgqWjIJ0LK-YAv_aPsd1_IQ/feed
+•	INSTRUO 2015 –  Largest Tech fest of Kolkata   Event co-ordinator of the special event War of Titans on  INSTRUO 2015
+•	INSTRUO 2016 –  Largest Tech fest of Kolkata   Event co-ordinator of the special event MatheMania  on  INSTRUO 2016
+
+
 
 one month summer tarining program ,training certificate core java ,grade "A" performance in 11 may 2015 11 june 2015.........
 project entitled digital dictionary on core java (font end)........
 
 
 gaabesu scholarship rs 12k 2015-16
-gaabesu scholaeship rs 12k 2014-15
+gaabesu scholarship rs 12k 2014-15
 merit cum means scholarship rs 14400 2015
+
+
+•	“Lexical Analyzer of our own Language”					            (mar’16-april’16) 
+Developed a basic Lexical Analyzer using C Language
+studying basic Compiler Design (automata theory).
 
 
 vocational training at SAIL,Durgapur 06,june 2016 to 17,june 2016
@@ -24,40 +39,129 @@ AIR 437 in Final level of  6th national cyber olympiad(nco)
 congratulation letter from kapil sibal minister of HRD C&IT govt.of INDIA
 
  
-digital dictionary on core java
+•	“Digital Dictionary using Core Java”					  	          (may ‘15 – june ‘15)
+Developed the front end  of Dictionary using core java.
+Studied Core Java(Applet, Encapsulation, Inheritance).
+
+•	“Statistical Analysis of what we Write and what we Spoke”		  		(jan’16-april’16)
+ Analyze the differences between the Theory Paper, Slide and video Lecture
+studying Natural Language Processing (NLP) basic under guidance of Prof M. Bhattacharyya.
+
 
 Proficiency Certificate from CBSE with 95+ percentile performance 
+TECHNICAL SKILLS
+
+•Technical Knowledge :
+
+Databases :  Oracle, Mrcrosoft SQL Server.
+Tools/Languages : Eclipse, Informatica, IBM-Cognos, Tableau, Python, 
+Programming Languages      : 	
+Hands on Experience on Informatica, IBM-Cognos, Tableau.
+Proficient in Python, Unix, Microsoft Sql Server, Oracle
+
+C, C++,CORE JAVA,PHP,HTML5, MYSQL,ORACLE
+•	Platforms		        : 	Linux (Ubuntu, Kali, Red hat) and Windows7,8,10
+•	Software		        : 	WAMP, XAMP, Xilinx, Open GL.
 
 
 
 
+Project Summary :
+1. ARCP Performance Analysis (Stream Training Project)
 
-library managemenet system database project -09.2.2016....................
-professional english language course 27.01.2016-10.03.2016--30 hours ..................
-ieo certificate of participation 21.02.2016
+Role	:     Data cleaning and Reporting
+Tools	:     Informatica, IBM Cognos.
 
-one month summer tarining program ,training certificate core java ,grade "A" performance in 11 may 2015 11 june 2015.........
-project entitled digital dictionary on core java (font end)........
+2. PyWallet Application (Generic Training Project)
+Role	:     Virtual payment Application.
+Tools	:     Oracle, Python.
+
+Prepared queries and Transformations for extraction and cleaning of Database.
+Prepared Package using Framework Manager and removing anomalies.
+Visualization of Data by different charts and drill through using Report studio.
+
+•	Project on “Do We Present the Same What We Publish? A Statistical Perspective”        (jan’16-may’16)
+Analyzed the similarity between Paper, Slide and video of the same research work.
+Studied Cosine Similarity, Correlation, worked on Tagcrowd under guidance of Prof M. Bhattacharyya.
+
+•	Project on “Library Management System(LMS)-WEB APPLICATION”	(sept‘15–jan ’16)
+Developed frontend using HTML, PHP and backend using MYSQL of LMS .
+Studied HTML, PHP, MYSQL, Wamp Server under guidance of Dr. S. Roy of IIEST, SHIBPUR.
+
+•	Project on “Lexical Analyzer of your own Language using C Language”	(jan’16-april’16)
+Developed lexical Analyzer which accepts input from c file .
+Studied Automata Theory, basics of Compiler under guidance of Dr. C. Giri of IIEST, SHIBPUR
 
 
-gaabesu scholarship rs 12k 2015-16
-gaabesu scholaeship rs 12k 2014-15
-merit cum means scholarship rs 14400 2015
+________________________________
+ EDUCATIONAL QUALIFICATIONS
 
 
-vocational training at SAIL,Durgapur 06,june 2016 to 17,june 2016
+RESEARCH WORK / PROJECTS
 
-hactrack tech defence "cehe level 1.0 & 2.0" 14-16 feb 2014
+•	Paper on “Do We Present the Same What We Publish? A Statistical Perspective”        (Jan’16-May’16)
+Analyzed the similarity between Paper, Slide and video of the same research work, Observed the Human Psychology while presenting the paper, Studied Cosine Similarity, Correlation, worked on Tagcrowd and Topic Modelling Tool under guidance of Prof M. Bhattacharyya of IIEST, Shibpur. This work has been communicated at PLOS ONE Journal having impact factor of 3.05.
 
-certified microsoft technology associate on course "database fundamentals" on 28.07.2016 ..............
+•	Project on “Library Management System(LMS)-WEB APPLICATION”                         (Sept’15-Jan’16)
+Developed frontend using HTML, PHP and backend using MYSQL of LMS and used Wamp Server.
+Studied HTML, PHP, MYSQL, Wamp Server under guidance of Dr. S. Roy of IIEST, Shibpur.
 
-consistent performance with no backlog and average 8 cgpa
+•	Project on “Lexical Analyzer of your own Language using C Language”	     (Jan’16-April’16)
+Developed lexical Analyzer which accepts input from c file and generate its keyword and identifier.
+Studied Automata Theory, basics of Compiler under guidance of Dr. C. Giri of IIEST, Shibpur.
+
+SPECIAL ASSIGNMENT
+Webcasting - Link:-  https://www.youtube.com/channel/UCuD1qfGw-ticWNSZAGk3mzQ    
+Total end to end responsibility for the complete Live streaming and recording of all Events of IIEST Alumni Day 2015 directly on YouTube channel. Used Wirecast tool for the interface between camera and youtube.
+
+TRAINING AND COURSES
+•	15 Days Training at DURGAPUR STEEL PLANT on overview of CS &IT applications in May, 2016.
+•	Completed CORE JAVA Summer Training with ‘A’ Grade from Microsoft, Kolkata in May, 2015.
+•	Completed  Certified Professional Course on Database Fundamentals in June, 2015.
+
+TECHNICAL SKILLS
+•	Programming Languages      : 	C, C++, MYSQL.C, C++,CORE JAVA,PHP,HTML5, MYSQL,ORACLE
+•	Platforms Worked	        : 	Linux (Ubuntu, Kali, Red hat) and Windows7,8,10
+•	Tools    		        : 	WAMP, XAMP, XILINIX, MATLAB (Basic).
+ POSITIONS OF RESPONSIBILITY 
+
+?	Event Co-ordinator in INSTRUO’16 –  IIEST Technical Fest 
+Role- Event co-ordinator of the special event MatheMania on INSTRUO’16.
+It is the largest Technical Fest of Kolkata conducted by IIEST students
+Around 400 participants took part from different Engineering Colleges of Kolkata Region.                      
 
 
-AIR 437 in Final level of  6th national cyber olympiad(nco)
-congratulation letter from kapil sibal minister of HRD C&IT govt.of INDIA
 
- 
-digital dictionary on core java
+________________________________________
 
-Proficiency Certificate from CBSE with 95+ percentile performance 
+
+
+Project on “Design of Obstacle Detection and Collision Avoidance  using Raspberry PI”    (may ‘16 – Jan ‘17)
+
+Developed a running model for the Obstacle Detection using infrared sensor and Collision Avoidance using motor driver, Used Raspberry Pi B+ model for implementation.
+
+R. K. Agarwal, C. Bhattacharyya, G. Debnath and M. Bhattacharyya
+“Do We Present the Same What We Publish? A Statistical Perspective”, Computers in Human Behavior,
+Under review, 2016. (Latest IF: 2.88)
+
+Analyzed the similarity between Paper, Slide and video of the same research work, Observed the Human Psychology while presenting the paper, Studied Cosine Similarity, Correlation, worked on Tagcrowd and Topic Modelling Tool under guidance of Prof M. Bhattacharyya of IIEST, Shibpur.
+
+
+
+•	Recieved Merit Scholarship of Rs12,000 from GAABESU consecutive two year.
+•	Recieved Merit cum Means Scholarship from IIEST UNIVERSITY of Rs 14,400.
+•	City topper, AIR-261, Merit Certificate ,National Cyber Olympiad.
+•	Only Student from School to receive Congratulation letter from Kapil Sibal, HRD C & IT Minister, Government of India for performance in Class 10.
+•	Received Award for 100% attendance in Class 10 in DAV Public School, Moonidih. 
+•	Received Merit cum means scholarship in year 2015 from IIEST, Shibpur.
+•	AIR 437, in Final level of  6th National Cyber Olympiad (NCO).
+•	Proficiency Certificate from CBSE with Best performance in School.
+•	Received Award for 100% attendance in Class 10 in DAV Public School, Moonidih. 
+•	Received Merit Scholarship from IIEST ALUMNI ASSOCIATION (GAABESU) for two year.
+•	Only Student from School to receive Congratulation letter from Kapil Sibal, HRD C & IT Minister.
+•	Received Award for 100% attendance in Class 10 in DAV Public School, Moonidih. 
+•	Received Merit Scholarship from IIEST ALUMNI ASSOCIATION (GAABESU) for two year.
+•	Congratulation letter from HRM Minister, Government of India, Kapil Sibal.
+•	Recieved Merit Scholarship of Rs12,000 from GAABESU consecutive two year.
+•	Recieved Merit cum Means Scholarship from IIEST UNIVERSITY of Rs 14,400.
+•	City topper, AIR-261, Merit Certificate ,National Cyber Olympiad.
