@@ -72,7 +72,7 @@ hr.separator {
 }
 
 .progress {
-    height: 10px !important;
+    height: 20px !important;
 	
 }
 @keyframes "blink" {
