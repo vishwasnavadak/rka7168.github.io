@@ -3,7 +3,6 @@
 body{
     background:url(img/bg2.jpg) Fixed;
     background-size:cover;
-    // text-transform: uppercase;
     text-align: center;
     color:#fff !important;
     vertical-align: middle;
@@ -25,13 +24,14 @@ body a{
 	padding-right: 2px;
 }
 
-.skill-row {
-	
-}
 
 .skill-col {
-	text-align: left;
-	padding:2px;
+  text-align: center;
+  padding:2px;
+} 
+.skill-col img {
+  max-height: 100px;
+  max-width: 90%;
 }
 
 .skill-bar {
@@ -43,7 +43,8 @@ body a{
     font-size: 0.95em;
 }
 .skill-desc {
-	color:#bbbbbb;
+  color:#bbbbbb;
+  
 	-webkit-transition-property: color; /* Safari */
     -webkit-transition-duration: 0.5s; /* Safari */
     -o-transition-property: color;
@@ -68,8 +69,9 @@ hr.separator {
 }
 
 .progress {
-    height: 5px !important;
-	width:80%;
+  height: 5px !important;
+  width:100%;
+  margin: 0 0 20px 0 !important;
 	
 }
 .blinking-cursor {
@@ -123,4 +125,16 @@ hr.separator {
   50% {
     color: white;
   }
+}
+
+@media (max-width:320px)  {
+	h2 {
+		font-size:1.4em !important;
+	}
+}
+
+@media (max-width:480px)  {
+	h2 {
+		font-size:1.6em !important;
+	}
 }
